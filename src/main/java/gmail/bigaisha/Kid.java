@@ -15,7 +15,7 @@ public class Kid {
 
         Kid First = new Kid();
         String firstKidName = "Nurali";
-        First.yearOfBirth = 2014;
+        First.yearOfBirth = 2012;
         First.monthOfBirth = 4;
         First.dayOfBirth = 3;
         First.sex = 1;
